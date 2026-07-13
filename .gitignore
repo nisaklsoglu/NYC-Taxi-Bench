@@ -1,0 +1,14 @@
+# Sanal ortam klasörünü engelle
+venv_401/
+.venv/
+
+# VERİ KLASÖRLERİNİ ENGELLE (Asla yüklenmeyecekler)
+data/
+data/raw/
+data/clean/
+
+# Jupyter Notebook ve IDE logları
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
+__pycache__/
