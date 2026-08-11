@@ -1,6 +1,7 @@
 # Sanal ortam klasörünü engelle
 venv_401/
 .venv/
+venv_clean/
 
 # VERİ KLASÖRLERİNİ ENGELLE (Asla yüklenmeyecekler)
 data/
