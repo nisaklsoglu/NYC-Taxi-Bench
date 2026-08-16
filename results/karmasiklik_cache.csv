@@ -1,0 +1,5 @@
+Test,Engine,Cold_sec,Warm_median_sec,Warm_stdev_sec,Cold_to_warm_speedup,Peak_RAM_MB,Result_Rows
+T1: Basit Filtre (1 Ay),DataFusion,0.079,0.0411,0.0018,1.92,0.0,1
+T1: Basit Filtre (1 Ay),Apache Spark,0.4193,0.2337,0.0084,1.79,147.9,1
+T2: Broadcast JOIN (12 Ay),DataFusion,1.1265,0.9094,0.0696,1.24,1809.0,260
+T2: Broadcast JOIN (12 Ay),Apache Spark,3.7756,2.1215,0.1599,1.78,512.5,260

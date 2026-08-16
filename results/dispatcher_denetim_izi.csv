@@ -1,0 +1,7 @@
+Timestamp,Query_Type,Engine_Selected,Duration_sec,RAM_%,CPU_%,Status,Karar_Gerekcesi
+2026-08-16 06:15:47,point_estimation,DataFusion,0.0576,78.6,13.6,SUCCESS,"tahmin: DataFusion 0.018s / 71 MB, Spark 1.212s -> DataFusion"
+2026-08-16 06:15:47,point_estimation,Result Cache,0.0004,78.9,47.8,SUCCESS,cache hit
+2026-08-16 06:15:49,complex_join,Apache Spark,1.7047,78.9,0.0,SUCCESS,karmaşık join + geniş groupBy
+2026-08-16 06:16:07,point_estimation,Result Cache,0.0008,78.8,23.3,SUCCESS,cache hit
+2026-08-16 06:16:07,point_estimation,DataFusion,0.0509,78.8,0.0,SUCCESS,"tahmin: DataFusion 0.023s / 73 MB, Spark 1.214s -> DataFusion"
+2026-08-16 06:16:07,point_estimation,DataFusion,0.0432,78.9,35.5,SUCCESS,"tahmin: DataFusion 0.014s / 68 MB, Spark 1.210s -> DataFusion"

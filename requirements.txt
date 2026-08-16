@@ -1,5 +1,17 @@
-datafusion>=35.0.0
-pyarrow>=14.0.0
-pandas>=2.0.0
-pyspark>=3.5.0
-numpy>=1.24.0
+# BIL 401 - NYC Taxi Bench
+# Python 3.11 gereklidir (PySpark 3.5.1, Python 3.12+ ile distutils sorunu yasar)
+
+pyspark==3.5.1
+datafusion==54.0.0
+pyarrow>=16.0.0
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+psutil>=5.9
+
+# PySpark 3.5.1 hala distutils cagirdigi icin gereklidir
+setuptools
+
+# Defterin calistirilmasi icin
+jupyter
+ipykernel

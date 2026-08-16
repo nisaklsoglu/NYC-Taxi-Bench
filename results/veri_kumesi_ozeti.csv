@@ -1,0 +1,2 @@
+Ham_parquet_dosya,Ham_boyut_MB,Ham_satir,Temiz_partfile,Temiz_boyut_MB,Temiz_satir,Eleme_orani_%,ETL_toplam_sn,Spark_surumu,Cekirdek
+12,606.29,38310226,410,719.97,36542807,4.61,45.37,3.5.1,16

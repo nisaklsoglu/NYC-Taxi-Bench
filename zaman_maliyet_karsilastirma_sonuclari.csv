@@ -1,5 +1,0 @@
-Test,Engine,Time_sec
-1. Basit Filtre (1 Ay),Apache Spark,0.17986858310177922
-1. Basit Filtre (1 Ay),DataFusion,0.024762917077168822
-2. Karmaşık JOIN (Yıllık),Apache Spark,0.668122333008796
-2. Karmaşık JOIN (Yıllık),DataFusion,0.35114137502387166

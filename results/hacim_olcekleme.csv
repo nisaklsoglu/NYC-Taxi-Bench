@@ -1,0 +1,9 @@
+Hacim,Ay_Sayisi,Scan_GB,Engine,Cold_sec,Warm_median_sec,Warm_stdev_sec,Cold_to_warm_speedup,Peak_RAM_MB,Result_Rows
+1 ay,1,0.0563,DataFusion,0.0674,0.0493,0.0099,1.37,23.4,21028
+1 ay,1,0.0563,Apache Spark,1.4997,1.2282,0.0452,1.22,553.7,21028
+3 ay,3,0.1727,DataFusion,0.9471,0.1401,0.0124,6.76,167.2,29712
+3 ay,3,0.1727,Apache Spark,1.4046,1.2761,0.028,1.1,48.7,29712
+6 ay,6,0.3595,DataFusion,1.3557,0.2353,0.0079,5.76,252.7,36444
+6 ay,6,0.3595,Apache Spark,1.4124,1.2551,0.0182,1.13,660.8,36444
+12 ay,12,0.7031,DataFusion,1.3807,0.6728,0.0214,2.05,374.5,42793
+12 ay,12,0.7031,Apache Spark,1.5628,1.4691,0.0683,1.06,7.4,42793
